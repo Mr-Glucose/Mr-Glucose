@@ -21,11 +21,12 @@ Welcome to my little corner of the internet! I'm a self-taught programmer, graph
 
 ## 💻 Projects I'm Proud Of
 - **[Store Rating App](https://github.com/Mr-Glucose/RatingAPP)**: Making it easier for customers to rate store experiences.
-- **[Data Strickers](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-23-repo)**:
+- **[Data Strickers ⚽](https://github.com/MIT-Emerging-Talent/ET6-CDSP-group-23-repo)**: a collaborative research initiative that explores football through the lens of data science.
 - **Better YOU**: Empowering underserved communities with tech and knowledge.  
 
 ## 📫 Let's Connect
 Feel free to reach out—whether it’s about code, creative ideas, or just to chat:  
 - **LinkedIn**: [My Profile](https://www.linkedin.com/in/lens-marc-arthur-dorvil/)  
 - **Email**: Dorvillensmarcarthur@gmail.com 
+
 
